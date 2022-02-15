@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-
         <shape xmlns:android="http://schemas.android.com/apk/res/android"
             android:shape="oval"
             >
@@ -24,7 +23,6 @@
 
 
     </item>
-
     <item>
         <shape android:shape="oval">
             <size
@@ -38,7 +36,6 @@
 
         </shape>
     </item>
-
     <item>
         <shape android:shape="oval">
             <size
@@ -62,6 +59,4 @@
 
         </shape>
     </item>
-
-
 </layer-list>
